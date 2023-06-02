@@ -1,0 +1,8 @@
+
+.env
+
+audio/
+
+storage/vectordb/index/
+
+storage/vectordb/
